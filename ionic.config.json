@@ -1,0 +1,7 @@
+{
+  "name": "appAburrida",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
